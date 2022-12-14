@@ -20,6 +20,7 @@ Somit ist es einfacher, eine oder mehrere einzelne Dateien von einem Laufwerk wi
 
 Sie können VMDKs nicht von vVol Backups anhängen.
 
+.Über diese Aufgabe
 Sie haben die folgenden Zusatzoptionen:
 
 * Sie können virtuelle Laufwerke von einem primären oder einem sekundären Backup hinzufügen.
@@ -72,4 +73,5 @@ Auf der Seite „Einstellungen bearbeiten“ werden die Festplatten auf der VM a
 
 
 
+.Ergebnis
 Sie können vom Host-Betriebssystem auf die angeschlossenen Laufwerke zugreifen und die erforderlichen Informationen von den Festplatten abrufen.
